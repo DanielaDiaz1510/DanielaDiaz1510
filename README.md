@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola! Soy Daniela Díaz Falla
 
-<!--
-**DanielaDiaz1510/DanielaDiaz1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Software** cursando la **Tecnología en Desarrollo de Aplicaciones Web y Móviles** en la Fundación Universitaria Compensar, con el ciclo de **Técnica Profesional en Programación de Software** culminado.
 
-Here are some ideas to get you started:
+Cuento con 4 años de experiencia formal liderando proyectos, gestionando bases de datos críticas y brindando soporte técnico empresarial. Apasionada por el código limpio, la automatización y el aseguramiento de la calidad (QA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mi Stack Tecnológico e Intereses
+
+*   **Lenguajes:** JavaScript (ES6), Java (Básico)
+*   **Desarrollo Frontend:** HTML5, CSS3, Maquetación Responsiva (Flexbox & Grid)
+*   **Bases de Datos:** SQL, PostgreSQL (Aprendiendo a profundidad)
+*   **Herramientas & Entornos:** Git, GitHub, DBeaver, Google Sites
+
+---
+
+## 📂 Mis Proyectos Destacados (Portafolio Académico)
+
+### 🛒 [QuickShop - Simulador de Tienda](https://github.io)
+*   **Descripción:** Aplicación interactiva frontend que simula un e-commerce.
+*   **Tecnologías:** JavaScript, HTML5, CSS3, integración con la API de *DummyJSON*.
+
+### 💼 [Mi Portafolio Web Profesional](https://github.io)
+*   **Descripción:** Interfaz moderna y adaptable diseñada como carta de presentación para el mercado laboral.
+*   **Tecnologías:** HTML5, CSS3 (Diseño responsivo).
+
+### 🔬 [Pruebas y Componentes de Internet](https://github.com)
+*   **Descripción:** Repositorio estructurado con laboratorios de tablas periódicas dinámicas, modales interactivos y validaciones de formularios.
