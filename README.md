@@ -17,7 +17,7 @@ Cuento con 4 años de experiencia formal liderando proyectos, gestionando bases 
 
 ## 📂 Mis Proyectos Destacados (Portafolio Académico Real)
 
-### 🧪 [Gestión Financiera - Finanzas Console (Ver Códigos y Pruebas)](https://github.com)
+### 🧪 [Gestión Financiera - Finanzas Console (Ver Códigos y Pruebas)(https://github.com/DanielaDiaz1510/Pruebas_Software)
 *   **Descripción:** Sistema backend modular desarrollado en Java enfocado en la gestión transaccional bajo arquitectura por capas.
 *   **Aseguramiento de Calidad:** Suite de pruebas automatizadas con JUnit 5 y Maven, alcanzando un 91% de cobertura de código verificado con JaCoCo. Incluye matriz de escenarios funcionales en Excel e informes metodológicos.
 
