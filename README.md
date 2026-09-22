@@ -15,15 +15,16 @@ Cuento con 4 años de experiencia formal liderando proyectos, gestionando bases 
 
 ---
 
-## 📂 Mis Proyectos Destacados (Portafolio Académico)
+## 📂 Mis Proyectos Destacados (Portafolio Académico Real)
 
-### 🛒 [QuickShop - Simulador de Tienda](https://github.io)
-*   **Descripción:** Aplicación interactiva frontend que simula un e-commerce.
-*   **Tecnologías:** JavaScript, HTML5, CSS3, integración con la API de *DummyJSON*.
+### 🧪 [Gestión Financiera - Finanzas Console (Ver Códigos y Pruebas)](https://github.com)
+*   **Descripción:** Sistema backend modular desarrollado en Java enfocado en la gestión transaccional bajo arquitectura por capas.
+*   **Aseguramiento de Calidad:** Suite de pruebas automatizadas con JUnit 5 y Maven, alcanzando un 91% de cobertura de código verificado con JaCoCo. Incluye matriz de escenarios funcionales en Excel e informes metodológicos.
 
-### 💼 [Mi Portafolio Web Profesional](https://github.io)
-*   **Descripción:** Interfaz moderna y adaptable diseñada como carta de presentación para el mercado laboral.
+### 🛒 [QuickShop - Simulador de Tienda (Abrir Aplicación Web)](https://github.io)
+*   **Descripción:** Aplicación interactiva frontend que emula el flujo lógico de un comercio electrónico en tiempo real.
+*   **Tecnologías:** JavaScript (ES6), HTML5, CSS3 e integración con la API de *DummyJSON*.
+
+### 💼 [Mi Portafolio Web Profesional (Abrir Sitio Web)](https://github.io)
+*   **Descripción:** Interfaz moderna y adaptable diseñada bajo semántica web estricta como carta de presentación laboral.
 *   **Tecnologías:** HTML5, CSS3 (Diseño responsivo).
-
-### 🔬 [Pruebas y Componentes de Internet](https://github.com)
-*   **Descripción:** Repositorio estructurado con laboratorios de tablas periódicas dinámicas, modales interactivos y validaciones de formularios.
