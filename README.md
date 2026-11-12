@@ -4,7 +4,7 @@ Estudiante de **Tecnología en Desarrollo de Aplicaciones Web y Móviles** en la
 
 Tengo más de 5 años de experiencia liderando proyectos regulados y dirigiendo la migración de información a plataformas digitales. Me interesan el desarrollo backend, las aplicaciones móviles y el aseguramiento de la calidad (QA).
 
-📫 danidiaz0131@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniela-diaz-517538385/) · [Portafolio](https://danieladiaz1510.github.io/Ejemplo_Portafolio/)
+📫 danidiaz0131@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniela-diaz-517538385/) · [Portafolio](https://danieladiaz1510.github.io/Mi-portafolio/)
 
 ---
 
@@ -41,5 +41,5 @@ Tengo más de 5 años de experiencia liderando proyectos regulados y dirigiendo 
 - Aplicación web en **JavaScript**, HTML5 y CSS3.
 - Consume la API de DummyJSON e incluye inicio de sesión de prueba y carrito persistente.
 
-### 💼 [Portafolio web](https://danieladiaz1510.github.io/Ejemplo_Portafolio/)
+### 💼 [Portafolio web](https://danieladiaz1510.github.io/Mi-portafolio/)
 - Sitio responsivo que reúne mi perfil, mis proyectos y mi experiencia.
