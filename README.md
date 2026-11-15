@@ -12,7 +12,7 @@ Tengo más de 5 años de experiencia liderando proyectos regulados y dirigiendo 
 
 - **Lenguajes:** Java, C#, Kotlin, JavaScript (ES6), SQL
 - **Backend:** Jakarta EE (Servlets) y Tomcat, JPA/Hibernate, ASP.NET Core Web API, Entity Framework Core, APIs REST, JWT, BCrypt
-- **Móvil y Frontend:** Android (Kotlin, Retrofit), HTML5, CSS3, Flexbox y Grid, diseño responsivo
+- **Móvil y Frontend:** Android (Kotlin, Retrofit, Material Design), HTML5, CSS3, Flexbox y Grid, diseño responsivo
 - **Bases de datos:** MySQL, PostgreSQL, modelado relacional
 - **Pruebas y calidad:** JUnit 5, JaCoCo, Maven, pruebas de integración de APIs
 - **Herramientas:** Git, GitHub, Android Studio, Swagger, DBeaver
@@ -21,11 +21,11 @@ Tengo más de 5 años de experiencia liderando proyectos regulados y dirigiendo 
 
 ## 📂 Proyectos destacados
 
-### 🐾 [VetCare – API REST para clínica veterinaria](https://github.com/DanielaDiaz1510/VetCare-Backend)
-- API en **Java 17** con **Jakarta EE**, **JPA/Hibernate** y **MySQL** para gestionar propietarios, mascotas, citas, historias clínicas, tratamientos y vacunación.
-- Seguridad con **JWT** y **BCrypt**, más roles (ADMIN y VETERINARIO) con permisos distintos.
-- Incluye auditoría, respaldo de la base de datos y reportes en Excel y PDF.
-- Arquitectura por capas con 29 rutas documentadas en Swagger y pruebas con JUnit 5.
+### 🐾 [VetCare Solutions – App Android + API REST + MySQL](https://github.com/DanielaDiaz1510/VetCare-Solutions)
+- Sistema completo para gestionar una veterinaria: **app Android en Kotlin**, **API REST en Java 17** (Jakarta EE, JPA/Hibernate) y base de datos **MySQL**.
+- Gestión de propietarios, mascotas, citas, historias clínicas y vacunas, con dos roles (ADMIN y VETERINARIO) y aprobación de cuentas nuevas.
+- Seguridad con **JWT** y **BCrypt**; la app guarda la sesión cifrada y trata los errores de acceso y de reglas de negocio.
+- Arquitectura por capas, 29 rutas documentadas en Swagger, pruebas unitarias con JUnit 5 y documentación completa (requisitos, diagramas, wireframes y manual).
 
 ### 📱 [App de Gestión de Usuarios – Android + API REST](https://github.com/DanielaDiaz1510/APP_NATIVAS)
 - App Android en **Kotlin** que consume, con **Retrofit**, una API propia en **ASP.NET Core** con **MySQL**.
