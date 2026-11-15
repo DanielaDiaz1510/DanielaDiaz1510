@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola! Soy Daniela Díaz Falla
 
-Estudiante de **Tecnología en Desarrollo de Aplicaciones Web y Móviles** en la Fundación Universitaria Compensar, con la **Técnica Profesional en Programación de Software** culminada. Busco mi práctica empresarial en el área de TI.
+Estudiante de **Ingeniería de Software** en la Fundación Universitaria Compensar. Curso el ciclo tecnológico en **Desarrollo de Aplicaciones Web y Móviles** y ya culminé el ciclo técnico en **Programación de Software**. Busco mi práctica empresarial en el área de TI.
 
 Tengo más de 5 años de experiencia liderando proyectos regulados y dirigiendo la migración de información a plataformas digitales. Me interesan el desarrollo backend, las aplicaciones móviles y el aseguramiento de la calidad (QA).
 
